@@ -127,152 +127,101 @@ Welcome to the ultimate curated directory of **autonomous revenue operations pla
 
 ## 🔓 Open-Source GitHub Projects
 
+*Curated list of self-hostable CRMs, AI SDR callers, autonomous revenue operations engines, and billing workflows — sorted by GitHub Stars count (Descending)* 🌟
 
+- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) ⚡  
+  **Modern open-source CRM with the flexibility of code**, AGPL-3.0 licensed. **The #1 open alternative to Salesforce and HubSpot** designed for modern engineering and RevOps teams. Features full pipeline management, custom database objects, GraphQL/REST APIs, self-hosting via Docker/Helm, and native AI automation workflows. **TypeScript, NestJS, React, and PostgreSQL**. 🚀
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
+- **[Cal.com](https://github.com/calcom/cal.diy)** [![Stars](https://img.shields.io/github/stars/calcom/cal.diy?style=social&color=white)](https://github.com/calcom/cal.diy/stargazers) 📅  
+  **Open-source scheduling infrastructure for revenue operations**, AGPL-3.0 licensed. Eliminates booking friction in sales pipelines with round-robin lead routing, automated CRM qualification handoffs, payment gate integrations (Stripe), and deep webhooks into revops data pipelines. ⏱️
 
+- **[PostHog](https://github.com/PostHog/posthog)** [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) 🦔  
+  **Open-source product analytics, revenue attribution & customer data platform**, MIT licensed. Powers product-led sales (PLS) and autonomous RevOps with self-hosted product analytics, session replay, customer event tracking, feature flags, and revenue cohort analysis for sales ops. 📈
 
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬  
+  **Open-source omnichannel customer communication & conversation intelligence**, AGPL-3.0 licensed. An open-source alternative to Intercom, Zendesk, and Salesforce Service Cloud. Consolidates inbound sales conversations across Live Chat, WhatsApp, Email, SMS, and Twitter into a unified team inbox with CRM sync. 🔥
 
-- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers)  
+- **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers) 🛠️  
+  **Free & open-source CRM built on Laravel for enterprise lead & sales management**, MIT licensed. Designed for businesses seeking complete data control and rapid customization. Includes lead routing, Kanban deal stages, multi-channel customer tracking, access control, and modular enterprise expansion. 💼
 
-  **Open-source AI SDR & revenue operations platform**, MIT licensed. **The most complete open-source revenue operations platform** — **AI Sales Strategist generates ICP using SPIN & Challenger frameworks** . **AI Lead Researcher does autonomous lead hunting with scoring and qualification, full local-first CRM with Kanban pipeline** . **AI Caller (SDR) is a real-time AI voice agent** powered by Google Gemini (also supports OpenAI Realtime and ElevenLabs ConvAI) with **built-in Twilio phone lines, live transcription, sentiment analysis, objection detection, and power dialing** . **AI Sales Coach offers objection sparring training with 3 difficulty levels and 12 objection archetypes** . **AI Sales Manager does post-call debrief with auto-generated follow-up emails and call analytics** . **Runs fully in demo mode with no API key** . **Built with Tauri, React 19, Rust, and Gemini** . **Cost: Free vs $280–$1,000+/month per seat for SaaS alternatives** . 🚀
+- **[Documenso](https://github.com/documenso/documenso)** [![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) ✍️  
+  **The open-source DocuSign alternative for sales contracts & closing deals**, AGPL-3.0 licensed. Automates quote-to-cash signature workflows, enterprise NDA signing, mutual closing agreements, and webhook-driven contract reconciliation in modern revenue pipelines. 📄
 
+- **[Mautic](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) 🎯  
+  **Open-source marketing automation & lead scoring engine**, GPL-3.0 licensed. Automates inbound demand generation, dynamic lead qualification scoring, multi-touch email nurturing campaigns, and automated handoffs to sales pipelines. 📬
 
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) 💰  
+  **Open-source invoicing, quotes, payments, and revenue collection platform**, Elastic License / AGPL-3.0. Powers quote-to-cash workflows for revenue teams: auto-generates quotes, tracks approvals, issues recurring invoices, and monitors payment reconciliation with multiple payment gateways. 💳
 
-- **[Radiant AI CRM](https://github.com/dylanmeyford/radiant-ai-crm-oss)** [![Stars](https://img.shields.io/github/stars/dylanmeyford/radiant-ai-crm-oss?style=social&color=white)](https://github.com/dylanmeyford/radiant-ai-crm-oss/stargazers)  
+- **[Crater](https://github.com/crater-invoice-inc/crater)** [![Stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers) 🧾  
+  **Open-source invoicing & estimate management solution**, AGPL-3.0 licensed. Built on Laravel and Vue.js for SMB revenue teams to design, send, and track estimates, expenses, and payments with zero third-party platform lock-in. 💵
 
-  **Open-source AI CRM that works autonomously in the background**, open-source. **Connects to email and calendar via Nylas** — **plugs directly into existing tools with no data entry or manual syncing** . **Analyzes every activity automatically** — every email, meeting, and interaction is processed and turned into actionable intelligence . **Joins and analyzes every meeting** — extracts key insights and updates CRM automatically . **Processes every deal and drafts the next best action** . **Consumes files and playbooks**, sends/schedules/drafts emails, researches and enriches contacts, creates meeting agendas, and finds new contacts . **TypeScript + Express + MongoDB + Stripe + Nylas + OpenAI** . **The only open-source AI CRM that works autonomously in the background** . 🤖
+- **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers) 🏛️  
+  **Award-winning enterprise-class open-source CRM**, AGPL-3.0 licensed. The battle-tested successor to SugarCRM Community Edition. Includes complex workflow automation, quotes, contracts, enterprise role management, and complete revenue reporting. 🏢
 
+- **[Kill Bill](https://github.com/killbill/killbill)** [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) 💳  
+  **Open-source subscription billing & payment engine for RevOps**, Apache-2.0 licensed. Enterprise-grade recurring billing engine that scales subscription lifecycle management, usage-based billing, payment routing, and invoice reconciliation with multi-gateway redundancy. ⚡
 
+- **[Frappe CRM](https://github.com/frappe/crm)** [![Stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers) 🚀  
+  **Fully featured, modern open-source CRM**, MIT licensed. Built on the Frappe framework with a Python backend and Vue.js frontend. Seamlessly connects pipeline management, lead scoring, and customer communication with ERPNext's financial and ERP ecosystem. 📊
 
-- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+- **[EspoCRM](https://github.com/espocrm/espocrm)** [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) 🎯  
+  **Lightweight open-source CRM with SPA frontend and REST API**, AGPL-3.0 licensed. Features deep email sync, automated business process workflows (BPM), sales pipeline analytics, and fine-grained role-based access control for SMBs. 📋
 
-  **Modern CRM with the flexibility of open source**, AGPL-3.0 licensed. **The most modern open-source CRM architecture** — **TypeScript-based with Python backend and Vue.js frontend** . **Designed as a flexible, customizable CRM** for teams that want to build their own workflows . **Designed for teams that want to build their own revenue operations workflows** . ⚡
+- **[Django-CRM](https://github.com/Django-CRM/Django-CRM)** [![Stars](https://img.shields.io/github/stars/Django-CRM/Django-CRM?style=social&color=white)](https://github.com/Django-CRM/Django-CRM/stargazers) 🐍  
+  **Open-source analytical CRM for startups with pipeline management**, MIT licensed. Django and SvelteKit architecture supporting multi-tenant deployments, deal stage tracking, task management, and programmatic sales automation. 💻
 
+- **[Warmbly](https://github.com/warmbly/warmbly)** [![Stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social&color=white)](https://github.com/warmbly/warmbly/stargazers) 🛡️  
+  **Open-source B2B cold outreach & email warmup service**, open-source. Runs cold email campaigns from mailboxes you already own and warms them to maintain high deliverability. Multi-step sequences, unified inbox, and automated reply playbooks. ✉️
 
+- **[SDRbot](https://github.com/NForce-ai/SDRbot)** [![Stars](https://img.shields.io/github/stars/NForce-ai/SDRbot?style=social&color=white)](https://github.com/NForce-ai/SDRbot/stargazers) 🤖  
+  **Open-source, terminal-native RevOps agent**, open-source. Automates CRM tasks, prospect research, and sales outreach workflows using your own API keys. Features interactive TUI commands, MCP server interoperability, and SQLite session persistence. 💻
 
-- **[Frappe CRM](https://github.com/frappe/crm)** [![Stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers)  
+- **[Radiant AI CRM](https://github.com/dylanmeyford/radiant-ai-crm-oss)** [![Stars](https://img.shields.io/github/stars/dylanmeyford/radiant-ai-crm-oss?style=social&color=white)](https://github.com/dylanmeyford/radiant-ai-crm-oss/stargazers) 🧠  
+  **Open-source AI CRM that operates autonomously in the background**, open-source. Connects to email and calendar via Nylas, automatically ingests activity data, attends/analyzes meetings, updates deal records, and drafts next-best actions. 🤖
 
-  **Fully featured, modern CRM**, MIT licensed. **Built on the Frappe framework** — **modern architecture with Python backend and Vue.js frontend** . **Part of the ERPNext ecosystem** — **integrates seamlessly with ERPNext's accounting, inventory, and HR modules** . **The most modern open-source CRM architecture** . 🚀
-
-
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)** [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
-
-  **Open-source CRM with SPA frontend and REST API**, AGPL-3.0 licensed. **Very complete CRM with a clean user interface designed for productivity** . **Powerful in-app administration allows you to customize pretty much everything** . **Roles manager, audit log, email sync, OIDC/LDAP, and rich library of paid extensions** . **Best for SMBs that need a complete, customizable CRM and have development resources** . 🎯
-
-
-
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
-
-  **Award-winning enterprise-class open-source CRM**, AGPL-3.0 licensed. **The successor to SugarCRM Community Edition** — **large user base and many features** . **Workflow automation, modularity, reporting tools, security suite, and customization framework** . **Best for organizations that need feature breadth and have technical resources to manage legacy code** . 🏛️
-
-
-
-- **[SDRbot](https://github.com/NForce-ai/SDRbot)** [![Stars](https://img.shields.io/github/stars/NForce-ai/SDRbot?style=social&color=white)](https://github.com/NForce-ai/SDRbot/stargazers)  
-
-  **Open-source, terminal-native RevOps agent**, open-source. **Automates CRM tasks, prospect research, and sales workflows using your own API keys** . **Fully local and completely free** . **TUI-based interface** with commands for setup, agents, skills, services, MCP servers, tools, sync, tokens, and context . **Tool scope management** (Standard, Extended, Privileged) to control agent access . **Session persistence via SQLite** with resume capability . **The most developer-friendly open-source revenue operations agent** . 🛠️
-
-
-
-- **[Krayin](https://github.com/krayin/laravel-crm)** [![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)  
-
-  **Low-code CRM with enterprise-grade features**, MIT licensed. **Laravel-based** — **designed for businesses that want a modern, low-code CRM** . **The most accessible Laravel-based open-source CRM** . 🛠️
-
-
-
-- **[Django-CRM](https://github.com/MicroPyramid/Django-CRM)** [![Stars](https://img.shields.io/github/stars/MicroPyramid/Django-CRM?style=social&color=white)](https://github.com/MicroPyramid/Django-CRM/stargazers)  
-
-  **CRM for startups with sales pipeline management**, MIT licensed. **Django-based** — **analytical CRM with task management and email marketing** . **Designed for easy customization and quick development** . **The most Pythonic open-source CRM** . 🐍
-
-
-
-- **[Warmbly](https://github.com/warmbly/warmbly)** [![Stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social&color=white)](https://github.com/warmbly/warmbly/stargazers)  
-
-  **Largest open-source B2B cold outreach and email warmup service**, open-source. **Runs cold email campaigns from mailboxes you already own and warms them so they keep landing in the inbox** . **Multi-step sequences with per-mailbox caps, unified inbox, CRM with pipelines and deals, deliverability management, visual reply playbooks with AI steps** . **Self-hosting with no cloud account of any kind** . 🛡️
-
-
+- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers) 🎙️  
+  **Open-source AI SDR & local autonomous RevOps engine**, MIT licensed. Features an AI Sales Strategist, autonomous lead hunter with ICP scoring, and an AI Voice Caller powered by Google Gemini/Twilio with live transcription, sentiment tracking, and objection sparring training. 🚀
 
 ---
-
-
 
 ## 🛠️ How to Contribute
 
-
-
-Contributions are welcome! Follow these steps to submit new autonomous revenue operations platforms or open-source revenue intelligence software:
-
-
+Contributions are welcome! Follow these steps to submit new autonomous revenue operations platforms, AI SDR tools, or open-source revenue intelligence repositories:
 
 1. 🍴 **Fork** the repository.
-
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
-3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
+3. 🔗 Include project title, official website/GitHub link, exact star count, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
-
-
 ---
-
-
 
 ## 📊 Star History
 
-
-
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Autonomous-Revenue-Operations&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Autonomous-Revenue-Operations&type=date&legend=top-left)
 
-
-
 ---
-
-
 
 ## 🤝 Support & Sponsorship
 
-
-
 If you find this autonomous revenue operations repository useful, please consider supporting the project:
 
-
-
 - ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow revenue operations leaders, sales analysts, and open-source advocates.
-
+- 🔀 **Fork** and share with fellow revenue operations leaders, sales analysts, and open-source RevOps advocates.
 - ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-
-
 ---
-
-
 
 ## ⚠️ Disclaimer
 
-
-
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
-- **Salesforce leads the 2026 ISG Revenue Intelligence Buyers Guide** with **82.0% overall**, followed by **Gong (79.0%)** and **Salesloft (78.2%)** . **Gong, Outreach, Salesforce, and Salesloft** were rated **Exemplary**, with **Aviso and Clari** rated **Innovative** .
-
-- **Salesforce Agentforce Revenue Cloud introduced Intelligent Quote Builder in Spring 2026** — **AI auto-generates quotes and proposals, creates product bundles, and applies volume discounts** . **Revenue Cloud Advanced adds better MCE support and usage-based selling** .
-
-- **Clari Forecast is quote-only on annual contracts** after the Salesloft merger — **best fit for organizations with a dedicated revenue operations function** . **Gong is used by 5,000+ companies** for conversation intelligence and deal coaching .
-
-- **Open-source revenue operations tools are not turnkey** — **OpenCloser requires Node.js, Rust, and Tauri prerequisites** . **Radiant AI CRM requires TypeScript, Express, MongoDB, Stripe, and Nylas** . **Twenty and EspoCRM require deployment and configuration** . **Always validate forecast accuracy, pipeline hygiene, and CRM data quality with a proof-of-concept** before production deployment. 📈
-
-
+- **Salesforce leads the 2026 ISG Revenue Intelligence Buyers Guide** with **82.0% overall**, followed by **Gong (79.0%)** and **Salesloft (78.2%)**. **Gong, Outreach, Salesforce, and Salesloft** were rated **Exemplary**, with **Aviso and Clari** rated **Innovative**.
+- **Salesforce Agentforce Revenue Cloud** introduced **Intelligent Quote Builder** in Spring 2026 — AI auto-generates quotes and proposals, creates product bundles, and applies volume discounts.
+- **Clari Forecast is quote-only on annual contracts** after the Salesloft merger — best fit for organizations with a dedicated revenue operations function. **Gong is used by 5,000+ companies** for conversation intelligence and deal coaching.
+- **Open-source revenue operations tools are not turnkey** — self-hosted CRMs and AI agents require infrastructure and API key configurations. Always validate pipeline hygiene and data security with a proof-of-concept before production deployment. 📈
 
 ---
 
-
-
 <p align="center">
-
   <b>Made with ❤️ for revenue operations leaders, sales analysts, and open-source RevOps advocates.</b>
-
 </p>
