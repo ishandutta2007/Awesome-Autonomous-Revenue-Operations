@@ -127,7 +127,7 @@ Welcome to the ultimate curated directory of **autonomous revenue operations pla
 
 ## 🔓 Open-Source GitHub Projects
 
-*Curated list of self-hostable CRMs, AI SDR callers, autonomous revenue operations engines, and billing workflows — sorted by GitHub Stars count (Descending)* 🌟
+*Curated list of self-hostable CRMs, AI SDR callers, autonomous revenue operations engines, and billing workflows — sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) ⚡  
   **Modern open-source CRM with the flexibility of code**, AGPL-3.0 licensed. **The #1 open alternative to Salesforce and HubSpot** designed for modern engineering and RevOps teams. Features full pipeline management, custom database objects, GraphQL/REST APIs, self-hosting via Docker/Helm, and native AI automation workflows. **TypeScript, NestJS, React, and PostgreSQL**. 🚀
@@ -191,7 +191,7 @@ Contributions are welcome! Follow these steps to submit new autonomous revenue o
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
